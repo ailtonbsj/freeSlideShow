@@ -1,0 +1,19 @@
+{
+  "name": "freeslideshow",
+  "version": "0.0.1",
+  "description": "An simple free slide show",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "free",
+    "video",
+    "editor"
+  ],
+  "author": "ailtonbsj",
+  "license": "ISC",
+  "dependencies": {
+    "ffmpeg-concat": "^1.1.0"
+  }
+}
