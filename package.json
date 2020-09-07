@@ -14,6 +14,7 @@
   "author": "ailtonbsj",
   "license": "ISC",
   "dependencies": {
+    "jpeg-js": ">=0.4.0",
     "ffmpeg-concat": "^1.1.0"
   }
 }
